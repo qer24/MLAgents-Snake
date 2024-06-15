@@ -1,0 +1,29 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 4207,
+                "file_path": "results\\Test47\\Snake\\Snake-4207.onnx",
+                "reward": null,
+                "creation_time": 1718319771.5716228,
+                "auxillary_file_paths": [
+                    "results\\Test47\\Snake\\Snake-4207.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4207,
+            "file_path": "results\\Test47\\Snake.onnx",
+            "reward": null,
+            "creation_time": 1718319771.5716228,
+            "auxillary_file_paths": [
+                "results\\Test47\\Snake\\Snake-4207.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

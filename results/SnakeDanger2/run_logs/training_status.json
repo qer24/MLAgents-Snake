@@ -1,0 +1,65 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 349950,
+                "file_path": "results\\SnakeDanger2\\Snake\\Snake-349950.onnx",
+                "reward": 2.9943336049715676,
+                "creation_time": 1718379617.9477887,
+                "auxillary_file_paths": [
+                    "results\\SnakeDanger2\\Snake\\Snake-349950.pt"
+                ]
+            },
+            {
+                "steps": 399990,
+                "file_path": "results\\SnakeDanger2\\Snake\\Snake-399990.onnx",
+                "reward": 4.416241826939172,
+                "creation_time": 1718379682.919161,
+                "auxillary_file_paths": [
+                    "results\\SnakeDanger2\\Snake\\Snake-399990.pt"
+                ]
+            },
+            {
+                "steps": 449964,
+                "file_path": "results\\SnakeDanger2\\Snake\\Snake-449964.onnx",
+                "reward": 4.108867067595323,
+                "creation_time": 1718379748.6164668,
+                "auxillary_file_paths": [
+                    "results\\SnakeDanger2\\Snake\\Snake-449964.pt"
+                ]
+            },
+            {
+                "steps": 499973,
+                "file_path": "results\\SnakeDanger2\\Snake\\Snake-499973.onnx",
+                "reward": 4.848911656273736,
+                "creation_time": 1718379814.370699,
+                "auxillary_file_paths": [
+                    "results\\SnakeDanger2\\Snake\\Snake-499973.pt"
+                ]
+            },
+            {
+                "steps": 500037,
+                "file_path": "results\\SnakeDanger2\\Snake\\Snake-500037.onnx",
+                "reward": 4.848911656273736,
+                "creation_time": 1718379814.4002354,
+                "auxillary_file_paths": [
+                    "results\\SnakeDanger2\\Snake\\Snake-500037.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500037,
+            "file_path": "results\\SnakeDanger2\\Snake.onnx",
+            "reward": 4.848911656273736,
+            "creation_time": 1718379814.4002354,
+            "auxillary_file_paths": [
+                "results\\SnakeDanger2\\Snake\\Snake-500037.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

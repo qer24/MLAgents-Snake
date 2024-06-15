@@ -1,0 +1,56 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 49938,
+                "file_path": "results\\SnakeRays3\\Snake\\Snake-49938.onnx",
+                "reward": -1.664000153541565,
+                "creation_time": 1718401445.88823,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays3\\Snake\\Snake-49938.pt"
+                ]
+            },
+            {
+                "steps": 99969,
+                "file_path": "results\\SnakeRays3\\Snake\\Snake-99969.onnx",
+                "reward": -4.722500264644623,
+                "creation_time": 1718401490.1017168,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays3\\Snake\\Snake-99969.pt"
+                ]
+            },
+            {
+                "steps": 149977,
+                "file_path": "results\\SnakeRays3\\Snake\\Snake-149977.onnx",
+                "reward": -7.451000422239304,
+                "creation_time": 1718401535.3726945,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays3\\Snake\\Snake-149977.pt"
+                ]
+            },
+            {
+                "steps": 179052,
+                "file_path": "results\\SnakeRays3\\Snake\\Snake-179052.onnx",
+                "reward": null,
+                "creation_time": 1718401561.5351489,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays3\\Snake\\Snake-179052.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 179052,
+            "file_path": "results\\SnakeRays3\\Snake.onnx",
+            "reward": null,
+            "creation_time": 1718401561.5351489,
+            "auxillary_file_paths": [
+                "results\\SnakeRays3\\Snake\\Snake-179052.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

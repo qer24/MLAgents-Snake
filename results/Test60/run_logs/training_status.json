@@ -1,0 +1,65 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 149993,
+                "file_path": "results\\Test60\\Snake\\Snake-149993.onnx",
+                "reward": 0.805482268650481,
+                "creation_time": 1718322362.9361057,
+                "auxillary_file_paths": [
+                    "results\\Test60\\Snake\\Snake-149993.pt"
+                ]
+            },
+            {
+                "steps": 199976,
+                "file_path": "results\\Test60\\Snake\\Snake-199976.onnx",
+                "reward": 0.8019718879676727,
+                "creation_time": 1718322425.019594,
+                "auxillary_file_paths": [
+                    "results\\Test60\\Snake\\Snake-199976.pt"
+                ]
+            },
+            {
+                "steps": 249976,
+                "file_path": "results\\Test60\\Snake\\Snake-249976.onnx",
+                "reward": 0.8453535921665845,
+                "creation_time": 1718322490.5402272,
+                "auxillary_file_paths": [
+                    "results\\Test60\\Snake\\Snake-249976.pt"
+                ]
+            },
+            {
+                "steps": 299990,
+                "file_path": "results\\Test60\\Snake\\Snake-299990.onnx",
+                "reward": 0.8395937499590218,
+                "creation_time": 1718322554.1905053,
+                "auxillary_file_paths": [
+                    "results\\Test60\\Snake\\Snake-299990.pt"
+                ]
+            },
+            {
+                "steps": 301789,
+                "file_path": "results\\Test60\\Snake\\Snake-301789.onnx",
+                "reward": 0.8523883944643396,
+                "creation_time": 1718322560.7451634,
+                "auxillary_file_paths": [
+                    "results\\Test60\\Snake\\Snake-301789.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 301789,
+            "file_path": "results\\Test60\\Snake.onnx",
+            "reward": 0.8523883944643396,
+            "creation_time": 1718322560.7451634,
+            "auxillary_file_paths": [
+                "results\\Test60\\Snake\\Snake-301789.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

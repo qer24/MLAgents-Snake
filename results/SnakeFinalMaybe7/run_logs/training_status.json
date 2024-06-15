@@ -1,0 +1,65 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 449994,
+                "file_path": "results\\SnakeFinalMaybe7\\Snake\\Snake-449994.onnx",
+                "reward": 0.891805562708113,
+                "creation_time": 1718388442.7239766,
+                "auxillary_file_paths": [
+                    "results\\SnakeFinalMaybe7\\Snake\\Snake-449994.pt"
+                ]
+            },
+            {
+                "steps": 499975,
+                "file_path": "results\\SnakeFinalMaybe7\\Snake\\Snake-499975.onnx",
+                "reward": 0.9023673522229098,
+                "creation_time": 1718388488.275413,
+                "auxillary_file_paths": [
+                    "results\\SnakeFinalMaybe7\\Snake\\Snake-499975.pt"
+                ]
+            },
+            {
+                "steps": 549968,
+                "file_path": "results\\SnakeFinalMaybe7\\Snake\\Snake-549968.onnx",
+                "reward": 0.9013793098515478,
+                "creation_time": 1718388534.7101898,
+                "auxillary_file_paths": [
+                    "results\\SnakeFinalMaybe7\\Snake\\Snake-549968.pt"
+                ]
+            },
+            {
+                "steps": 599959,
+                "file_path": "results\\SnakeFinalMaybe7\\Snake\\Snake-599959.onnx",
+                "reward": 3.978000063981329,
+                "creation_time": 1718388595.0857606,
+                "auxillary_file_paths": [
+                    "results\\SnakeFinalMaybe7\\Snake\\Snake-599959.pt"
+                ]
+            },
+            {
+                "steps": 615261,
+                "file_path": "results\\SnakeFinalMaybe7\\Snake\\Snake-615261.onnx",
+                "reward": null,
+                "creation_time": 1718388607.1912844,
+                "auxillary_file_paths": [
+                    "results\\SnakeFinalMaybe7\\Snake\\Snake-615261.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 615261,
+            "file_path": "results\\SnakeFinalMaybe7\\Snake.onnx",
+            "reward": null,
+            "creation_time": 1718388607.1912844,
+            "auxillary_file_paths": [
+                "results\\SnakeFinalMaybe7\\Snake\\Snake-615261.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 449923,
+                "file_path": "results\\SnakeRaysInfinite9\\Snake\\Snake-449923.onnx",
+                "reward": 11.295732869704564,
+                "creation_time": 1718412592.4010868,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite9\\Snake\\Snake-449923.pt"
+                ]
+            },
+            {
+                "steps": 499925,
+                "file_path": "results\\SnakeRaysInfinite9\\Snake\\Snake-499925.onnx",
+                "reward": 19.924999117851257,
+                "creation_time": 1718412645.5321772,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite9\\Snake\\Snake-499925.pt"
+                ]
+            },
+            {
+                "steps": 549953,
+                "file_path": "results\\SnakeRaysInfinite9\\Snake\\Snake-549953.onnx",
+                "reward": 9.353071165936333,
+                "creation_time": 1718412692.3005493,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite9\\Snake\\Snake-549953.pt"
+                ]
+            },
+            {
+                "steps": 599916,
+                "file_path": "results\\SnakeRaysInfinite9\\Snake\\Snake-599916.onnx",
+                "reward": 11.01437007828995,
+                "creation_time": 1718412738.8301275,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite9\\Snake\\Snake-599916.pt"
+                ]
+            },
+            {
+                "steps": 602902,
+                "file_path": "results\\SnakeRaysInfinite9\\Snake\\Snake-602902.onnx",
+                "reward": 10.5579993724823,
+                "creation_time": 1718412746.7117643,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite9\\Snake\\Snake-602902.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 602902,
+            "file_path": "results\\SnakeRaysInfinite9\\Snake.onnx",
+            "reward": 10.5579993724823,
+            "creation_time": 1718412746.7117643,
+            "auxillary_file_paths": [
+                "results\\SnakeRaysInfinite9\\Snake\\Snake-602902.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

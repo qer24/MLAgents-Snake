@@ -1,0 +1,65 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 549873,
+                "file_path": "results\\SnakeRays5\\Snake\\Snake-549873.onnx",
+                "reward": -1.0140000768005848,
+                "creation_time": 1718402132.748392,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays5\\Snake\\Snake-549873.pt"
+                ]
+            },
+            {
+                "steps": 599930,
+                "file_path": "results\\SnakeRays5\\Snake\\Snake-599930.onnx",
+                "reward": null,
+                "creation_time": 1718402168.3445597,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays5\\Snake\\Snake-599930.pt"
+                ]
+            },
+            {
+                "steps": 649877,
+                "file_path": "results\\SnakeRays5\\Snake\\Snake-649877.onnx",
+                "reward": -0.3810000717639923,
+                "creation_time": 1718402204.2663937,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays5\\Snake\\Snake-649877.pt"
+                ]
+            },
+            {
+                "steps": 699910,
+                "file_path": "results\\SnakeRays5\\Snake\\Snake-699910.onnx",
+                "reward": null,
+                "creation_time": 1718402241.0542178,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays5\\Snake\\Snake-699910.pt"
+                ]
+            },
+            {
+                "steps": 747576,
+                "file_path": "results\\SnakeRays5\\Snake\\Snake-747576.onnx",
+                "reward": 0.3360000252723694,
+                "creation_time": 1718402275.628162,
+                "auxillary_file_paths": [
+                    "results\\SnakeRays5\\Snake\\Snake-747576.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 747576,
+            "file_path": "results\\SnakeRays5\\Snake.onnx",
+            "reward": 0.3360000252723694,
+            "creation_time": 1718402275.628162,
+            "auxillary_file_paths": [
+                "results\\SnakeRays5\\Snake\\Snake-747576.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

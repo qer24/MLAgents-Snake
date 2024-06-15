@@ -1,0 +1,65 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 1099950,
+                "file_path": "results\\SnakeFiveApples\\Snake\\Snake-1099950.onnx",
+                "reward": 4.381500016897917,
+                "creation_time": 1718390088.1300392,
+                "auxillary_file_paths": [
+                    "results\\SnakeFiveApples\\Snake\\Snake-1099950.pt"
+                ]
+            },
+            {
+                "steps": 1149947,
+                "file_path": "results\\SnakeFiveApples\\Snake\\Snake-1149947.onnx",
+                "reward": 3.4624999463558197,
+                "creation_time": 1718390127.430818,
+                "auxillary_file_paths": [
+                    "results\\SnakeFiveApples\\Snake\\Snake-1149947.pt"
+                ]
+            },
+            {
+                "steps": 1199992,
+                "file_path": "results\\SnakeFiveApples\\Snake\\Snake-1199992.onnx",
+                "reward": 4.232999801635742,
+                "creation_time": 1718390167.0742977,
+                "auxillary_file_paths": [
+                    "results\\SnakeFiveApples\\Snake\\Snake-1199992.pt"
+                ]
+            },
+            {
+                "steps": 1249964,
+                "file_path": "results\\SnakeFiveApples\\Snake\\Snake-1249964.onnx",
+                "reward": 4.061888883511226,
+                "creation_time": 1718390205.4641464,
+                "auxillary_file_paths": [
+                    "results\\SnakeFiveApples\\Snake\\Snake-1249964.pt"
+                ]
+            },
+            {
+                "steps": 1274621,
+                "file_path": "results\\SnakeFiveApples\\Snake\\Snake-1274621.onnx",
+                "reward": 4.302083258827527,
+                "creation_time": 1718390225.5323076,
+                "auxillary_file_paths": [
+                    "results\\SnakeFiveApples\\Snake\\Snake-1274621.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1274621,
+            "file_path": "results\\SnakeFiveApples\\Snake.onnx",
+            "reward": 4.302083258827527,
+            "creation_time": 1718390225.5323076,
+            "auxillary_file_paths": [
+                "results\\SnakeFiveApples\\Snake\\Snake-1274621.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

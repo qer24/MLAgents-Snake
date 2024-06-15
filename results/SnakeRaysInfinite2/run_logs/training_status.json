@@ -1,0 +1,65 @@
+{
+    "Snake": {
+        "checkpoints": [
+            {
+                "steps": 349903,
+                "file_path": "results\\SnakeRaysInfinite2\\Snake\\Snake-349903.onnx",
+                "reward": -26.41533370812734,
+                "creation_time": 1718410407.2144487,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite2\\Snake\\Snake-349903.pt"
+                ]
+            },
+            {
+                "steps": 399895,
+                "file_path": "results\\SnakeRaysInfinite2\\Snake\\Snake-399895.onnx",
+                "reward": null,
+                "creation_time": 1718410458.340539,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite2\\Snake\\Snake-399895.pt"
+                ]
+            },
+            {
+                "steps": 449916,
+                "file_path": "results\\SnakeRaysInfinite2\\Snake\\Snake-449916.onnx",
+                "reward": -28.56960047483444,
+                "creation_time": 1718410502.876137,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite2\\Snake\\Snake-449916.pt"
+                ]
+            },
+            {
+                "steps": 499968,
+                "file_path": "results\\SnakeRaysInfinite2\\Snake\\Snake-499968.onnx",
+                "reward": null,
+                "creation_time": 1718410554.660122,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite2\\Snake\\Snake-499968.pt"
+                ]
+            },
+            {
+                "steps": 520010,
+                "file_path": "results\\SnakeRaysInfinite2\\Snake\\Snake-520010.onnx",
+                "reward": null,
+                "creation_time": 1718410573.2737348,
+                "auxillary_file_paths": [
+                    "results\\SnakeRaysInfinite2\\Snake\\Snake-520010.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 520010,
+            "file_path": "results\\SnakeRaysInfinite2\\Snake.onnx",
+            "reward": null,
+            "creation_time": 1718410573.2737348,
+            "auxillary_file_paths": [
+                "results\\SnakeRaysInfinite2\\Snake\\Snake-520010.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
